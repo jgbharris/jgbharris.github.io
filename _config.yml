@@ -3,8 +3,8 @@ title: Jim Harris
 subtitle: by HTML5 UP
 email: jgbharris@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "jgbharris.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city:
@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown
